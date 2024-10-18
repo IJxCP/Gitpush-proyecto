@@ -1,0 +1,32 @@
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.exe
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.deps.json
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.runtimeconfig.json
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.dll
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.pdb
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto_1_Calculadora.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.dll
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\refint\Proyecto 1 Calculadora.dll
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.pdb
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\ref\Proyecto 1 Calculadora.dll
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto_1_Calculadora.Form1.resources
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.csproj.GenerateResource.cache
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.AssemblyInfoInputs.cache
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.AssemblyInfo.cs
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.dll
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\refint\Proyecto 1 Calculadora.dll
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.pdb
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.exe
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.deps.json
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.runtimeconfig.json
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.dll
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\bin\Debug\net8.0-windows\Proyecto 1 Calculadora.pdb
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\Proyecto 1 Calculadora.genruntimeconfig.cache
+C:\Users\jozab\Documents\Proyecto skere\Proyecto 1 Calculadora\Proyecto 1 Calculadora\obj\Debug\net8.0-windows\ref\Proyecto 1 Calculadora.dll
